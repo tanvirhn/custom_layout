@@ -1,0 +1,57 @@
+.header, .hero, .body, .footer, .bar{
+	margin:10px 0;
+	background-color:teal;
+}
+
+.box{
+	margin:10px 0;
+	min-height: 100px;
+	background-color:red;
+	font-size:40px;
+	color:white;
+	text-align: center;
+}
+
+.three{
+	background-color:green;
+}
+
+.five{
+	background-color:blue;
+}
+.box2{
+	border:2px solid blue;
+
+}
+
+.banner1{
+	background-image: url(../img/banner1.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	
+}
+
+.custom_banner{
+		background-image: url(../img/banner2.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+.slider{
+	padding:60px;
+	background-color: rgb(1,1,1,.5);
+	font-size: 
+	color:white;
+}
+
+.slider h1{
+	font-size:35px;
+	color:white;
+}
+.slider p{
+	font-size:20px;
+	color:white;
+}
+.slider button{}
